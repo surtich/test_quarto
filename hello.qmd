@@ -1,0 +1,34 @@
+---
+title: "Habits"
+author: "John Doe"
+format: revealjs
+---
+
+## Getting up
+
+:::: {.incremental}
+
+- Turn off alarm
+- Get out of bed
+
+::::
+
+## Going to sleep
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+:::: {.incremental}
+
+- Turn off alarm
+- Get out of bed
+
+::::
+:::
+
+::: {.column width="60%"}
+contents 2...
+:::
+
+::::
